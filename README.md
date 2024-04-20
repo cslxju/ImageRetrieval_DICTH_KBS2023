@@ -3,7 +3,7 @@
 Using the code should cite the following paper:
 
 
-[1] Zijian Chao, Shuli Cheng*, Yongming Li.Deep Internally Connected Transformer Hashing for Image Retrieval.Knowledge-based systems，2023, 279, 110953.  （IF=8.8）.
+[1] Zijian Chao, Shuli Cheng*, Yongming Li.Deep Internally Connected Transformer Hashing for Image Retrieval.Knowledge-based systems，2023, 279, 110953.  （IF=8.8）.(https://github.com/cslxju/ImageRetrieval_DICTH_KBS2023)
 
 
 [2] Zhiwei Zhang, Shuli Cheng, Liejun Wang*, Combined query image retrieval based on hybrid coding of CNN and Mix-Transformer.Expert Systems With Applications. 2023,234，121060. (IF=8.5).
